@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Love On Top",
+  "base_artist": "Beyoncé",
+  "createdAt": "2025-12-23T13:45:22.406652Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love On Top Of Love",
+      "artist": "Grace Jones",
+      "has_synced": false,
+      "path": "select/01_Love_On_Top_Of_Love_Grace_Jones.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love On Top",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/02_Love_On_Top_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Love On Top",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/03_Love_On_Top_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Love On Top - Homecoming Live",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/04_Love_On_Top_-_Homecoming_Live_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love on Top",
+      "artist": "Scary Pockets feat. Louis Cato",
+      "has_synced": false,
+      "path": "select/05_Love_on_Top_Scary_Pockets_feat._Louis_Cato.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love on Top",
+      "artist": "Scary Pockets, Louis Cato",
+      "has_synced": false,
+      "path": "select/06_Love_on_Top_Scary_Pockets,_Louis_Cato.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love On Top (Album Version) (2011)",
+      "artist": "Beyonce",
+      "has_synced": true,
+      "path": "select/07_Love_On_Top_(Album_Version)_(2011)_Beyonce.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love On Top",
+      "artist": "Beyonce",
+      "has_synced": true,
+      "path": "select/08_Love_On_Top_Beyonce.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Love On Top (Without Fade)",
+      "artist": "Beyonce",
+      "has_synced": true,
+      "path": "select/09_Love_On_Top_(Without_Fade)_Beyonce.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Love On Top",
+      "artist": "John Canada",
+      "has_synced": true,
+      "path": "select/10_Love_On_Top_John_Canada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love On Top",
+      "artist": "Beyoncé",
+      "has_synced": false,
+      "path": "select/pl_01_Love_On_Top_Beyoncé.txt"
+    }
+  ]
+}
